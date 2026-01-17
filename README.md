@@ -1,6 +1,6 @@
-# [Project Name]
+# [Email Bot]
 
-> **Note:** [Add a brief, one-sentence description of what this agent does here. E.g., An autonomous AI agent that scrapes web data.]
+> **Note:** Drafting email using LangGraph workflow. This project is *hello world program* for LangGraph
 
 ## 📋 Prerequisites
 
@@ -12,12 +12,11 @@ Before you begin, ensure you have met the following requirements:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    git clone https://github.com/shruti-bhere/email-bot.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    git clone https://github.com/shruti-bhere/email-bot.git
     cd email-bot
     ```
 
